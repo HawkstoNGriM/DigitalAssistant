@@ -22,4 +22,7 @@ pyaudio
 - And these if you want your DA to just output text :
 pyttsx3 
 
+# Usage
+run the mic_thing.py and ask your question in the microphone :)
 
+- Hint: Both APIs are free to get :) OpenAI is an AI, Wolfram is just a really good search engine that answers questions really well - but not nearly as good as Chatgpt, so its just a backup in case chatgpt fails 
